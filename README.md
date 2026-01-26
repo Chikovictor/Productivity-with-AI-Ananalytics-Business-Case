@@ -37,11 +37,11 @@ AI was used to accelerate research, structure analysis, generate business insigh
 + GitHub documentation & version control    
 
 ##  📁 Repository Structure  
-├── data /                <!--Market & reference data-->
-├── analysis /           <!-- City comparison & insights -->
-├── pitch-deck /         <!-- Investor presentation -->
-├── branding /           <!-- Logo & store vision -->
-├── visuals /            <!-- Images used in the case -->
+├── data /               <!--Market & reference data-->  
+├── analysis /           <!--City comparison & insights-->  
+├── pitch-deck /         <!--Investor presentation-->  
+├── branding /           <!--Logo & store vision-->  
+├── visuals /            <!--Images used in the case-->  
 └── README.md / 
 
 ##  📌 Key Outcome  
