@@ -3,7 +3,7 @@
 A productivity-focused data analytics project using AI to deliver an investor-ready business plan in under 60 minutes.  
 
 <div style="border: 2px solid #4CAF50; padding: 10px; display: inline-block; border-radius: 6px;">
-  ![Hero Image](https://github.com/Chikovictor/Productivity-with-AI-Ananalytics-Business-Case/blob/main/Business_Case.png))
+  ![Hero Image](https://github.com/Chikovictor/Productivity-with-AI-Ananalytics-Business-Case/blob/main/Business_Case.png)
 </div>
 
 ##  🎯 Problem Statement  
