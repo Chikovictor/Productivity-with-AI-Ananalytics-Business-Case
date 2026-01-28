@@ -2,6 +2,7 @@
 **AI-Driven Business Case: Launching a Premium Used Car Dealership in Kenya**  
 A productivity-focused data analytics project using AI to deliver an investor-ready business plan in under 60 minutes.  
 
+![Hero Image](https://github.com/Chikovictor/Productivity-with-AI-Ananalytics-Business-Case/blob/main/Business_Case.png))
 
 ##  🎯 Problem Statement  
 Traditional market research and business planning takes weeks, slowing decision-making and innovation. This project demonstrates how AI and analytics can dramatically improve productivity in real-world business strategy.
