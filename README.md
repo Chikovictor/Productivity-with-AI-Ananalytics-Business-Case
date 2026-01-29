@@ -26,7 +26,9 @@ Traditional market research and business planning takes weeks, slowing decision-
 ✔ Logo & visual identity  
 ✔ Final strategic recommendation  
 
-
+| Dimension Weight          | Nguvu Physical Store Vision  | Brand Identity (Logo)         |
+|---------------------------|------------------------------|-------------------------------|
+| ![Overview](https://github.com/Chikovictor/Productivity-with-AI-Ananalytics-Business-Case/blob/main/Analysis(Data)/perplexityDim.Weight.png) | ![Map](https://github.com/Chikovictor/Productivity-with-AI-Ananalytics-Business-Case/blob/main/Physical_store.png)) | ![Segments](https://github.com/Chikovictor/Productivity-with-AI-Ananalytics-Business-Case/blob/main/Brand_Identity(logo).png)) |
 
 ##  🧠 Role of AI & Analytics  
 AI was used to accelerate research, structure analysis, generate business insights, and rapidly produce professional business artifacts, demonstrating how data-driven tools can significantly improve productivity in analytics and strategy roles.
