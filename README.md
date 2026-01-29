@@ -1,7 +1,10 @@
-##  📌Project Title  
+#  📌Project Title  
 **AI-Driven Business Case: Launching a Premium Used Car Dealership in Kenya**  
 A productivity-focused data analytics project using AI to deliver an investor-ready business plan in under 60 minutes.  
 
+<div style="border: 2px solid #16e01f; padding: 10px; display: inline-block; border-radius: 6px;">
+  <img src="Business_Case.png" alt="Dashboard Screenshot" width="800"/>
+</div>
 
 ##  🎯 Problem Statement  
 Traditional market research and business planning takes weeks, slowing decision-making and innovation. This project demonstrates how AI and analytics can dramatically improve productivity in real-world business strategy.
