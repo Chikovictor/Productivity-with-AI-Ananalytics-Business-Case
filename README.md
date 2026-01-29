@@ -56,4 +56,4 @@ The project successfully delivered a complete, investor-ready business case with
 
 Computer Science undergraduate with strong interest in Data Analytics/Data Science, Business Intelligence, and AI-driven productivity solutions.
 
-[LinkedIn](linkedin.com/in/victor-mwadzombo-95a026291/)
+[LinkedIn](https://linkedin.com/in/victor-mwadzombo-95a026291/)
